@@ -13,7 +13,7 @@
 ![CSS3](https://img.shields.io/badge/css3-0D1117.svg?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## Frameworks
+## Frameworks e Pré-processadores
 
 ![SASS](https://img.shields.io/badge/SASS-0D1117.svg?style=for-the-badge&logo=SASS&logoColor=hotpink)
 
