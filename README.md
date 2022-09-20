@@ -23,8 +23,6 @@
 
 ## Pretendo estudar
 
-![Vue.js](https://img.shields.io/badge/vuejs-0D1117.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D92525&height=120&section=footer"/>
