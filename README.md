@@ -2,7 +2,7 @@
 
 ## :sunglasses: Um pouco sobre mim!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=905ffe&size=30&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+David+da+Silva+Maia.;Tenho+17+anos.;Sou+do+Brasil,+CE.;Estou+no+ensino+médio.;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=905ffe&size=30&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+David+da+Silva+Maia.;Tenho+17+anos.;Sou+de+Fortaleza,+CE.;Estou+no+ensino+médio.;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 Olá, eu me chamo David e atualmente estou concluindo o Ensino Médio, comecei a programar em 2021, na pandemia, na qual ganhei meu notebook e então acabei por tentar aprender Python, porém, acabei não me identificando, e em pouco tempo acabei iniciando meus estudos de Desenvolvimento Web.
 
 ## :bar_chart: Estatísticas
