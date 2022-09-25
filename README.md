@@ -19,15 +19,10 @@ Olá, eu me chamo David e atualmente estou concluindo o Ensino Médio, comecei a
 ![SASS](https://img.shields.io/badge/SASS-0D1117.svg?style=for-the-badge&logo=SASS&logoColor=hotpink)
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## :wrench: Ferramentas
-
-![Figma](https://img.shields.io/badge/figma-0D1117.svg?style=for-the-badge&logo=figma&logoColor=orange)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-0D1117.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=#3430CB)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=235878)
-
 ## :books: Pretendo estudar
 
 ![React](https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=43853D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)
 
 ## :earth_americas: Social
