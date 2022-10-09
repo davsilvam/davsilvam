@@ -29,5 +29,6 @@ Olá, eu me chamo David e atualmente estou concluindo o Ensino Médio, comecei a
 
 <a href="https://www.linkedin.com/in/davsilvam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
 <a href="https://github.com/davsilvam/" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/davsilvam_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=905ffe&height=120&section=footer"/>
