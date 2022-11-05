@@ -40,6 +40,7 @@
 
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
+![Prettier](https://img.shields.io/badge/prettier-0D1117?style=for-the-badge&logo=prettier&logoColor=1A2C34)
 
 ## :earth_americas: Social
 
