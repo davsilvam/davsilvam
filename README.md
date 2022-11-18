@@ -39,4 +39,6 @@
   <img src="https://img.shields.io/badge/Vue.js-212121?style=for-the-badge&logo=vue.js&logoColor=5780c2" />
 </div>
 
+<br>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5780c2&height=120&section=footer"/>
