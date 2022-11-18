@@ -24,8 +24,8 @@
 ## Estatísticas e Tecnologias :rocket:
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davsilvam&show_icons=true&count_private=true&hide_border=true&title_color=5780c2&icon_color=D92525&text_color=c9d1d9&bg_color=212121" alt="David Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davsilvam&layout=compact&hide_border=true&title_color=5780c2&text_color=c9d1d9&bg_color=212121" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davsilvam&show_icons=true&count_private=true&title_color=5780c2&icon_color=5780c2&text_color=c9d1d9&bg_color=212121&border_radius=2&border_color=5780c2" alt="David Silva github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davsilvam&layout=compact&title_color=5780c2&text_color=c9d1d9&bg_color=212121&border_radius=2&border_color=5780c2" />
 </div>
 
 <br>
