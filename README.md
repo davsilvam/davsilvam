@@ -5,7 +5,7 @@
 
 👋🏻 - Olá, meu nome é David, tenho 18 anos e sou um Desenvolvedor Web Front-end.
 
-📚 - Eu estou estudando há aproximadamente 6 meses, construindo projetos, conhecimento e agregando valor ao meu perfil profissional. Atualmente construo meus projetos com o Framework JavaScript Vue.js e o Tailwind CSS. Além disso, estou aprofundando meus estudos em TypeScript.
+📚 - Atualmente construo meus projetos com o Framework JavaScript Vue.js e o Tailwind CSS. Além disso, estou aprofundando meus estudos em TypeScript.
 
 💻 - Durante meus estudos, estou focado em participar de eventos, bootcamps, ler e praticar os fundamentos do desenvolvimento web.
 
