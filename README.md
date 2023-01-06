@@ -21,7 +21,7 @@
 
 <br>
 
-## Estatísticas e Tecnologias :rocket:
+## Estatísticas e Principais Tecnologias :rocket:
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davsilvam&show_icons=true&count_private=true&title_color=5780c2&icon_color=5780c2&text_color=c9d1d9&bg_color=212121&border_radius=2&border_color=5780c2" alt="David Silva github stats" /> 
@@ -31,11 +31,10 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/html5-212121.svg?style=for-the-badge&logo=html5&logoColor=5780c2" />
-  <img src="https://img.shields.io/badge/css3-212121.svg?style=for-the-badge&logo=css3&logoColor=5780c2" />
   <img src="https://img.shields.io/badge/SASS-212121.svg?style=for-the-badge&logo=SASS&logoColor=5780c2" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-212121?style=for-the-badge&logo=tailwind-css&logoColor=5780c2" />
   <img src="https://img.shields.io/badge/javascript-212121.svg?style=for-the-badge&logo=javascript&logoColor=5780c2" />
+    <img src="https://img.shields.io/badge/TypeScript-212121?style=for-the-badge&logo=typescript&logoColor=5780c2" />
   <img src="https://img.shields.io/badge/Vue.js-212121?style=for-the-badge&logo=vue.js&logoColor=5780c2" />
 </div>
 
