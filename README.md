@@ -1,3 +1,5 @@
+<img src="./Favicon Ds.png" style="width: 120px" />
+
 ## Opa, eu sou o David! :wave:
 
 Olá, meu nome é David, tenho 18 anos e sou um Desenvolvedor Web Front-end.
