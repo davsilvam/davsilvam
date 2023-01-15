@@ -15,7 +15,6 @@
 
 <div align="right">
   <a href="https://www.linkedin.com/in/davsilvam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=5780c2"/></a>
-  <a href="https://github.com/davsilvam/" target="_blank"><img src="https://img.shields.io/badge/GitHub-212121?style=for-the-badge&logo=github&logoColor=5780c2"/></a>
   <a href="https://www.instagram.com/davsilvam_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-212121?style=for-the-badge&logo=instagram&logoColor=5780c2"/></a>
 </div>
 
