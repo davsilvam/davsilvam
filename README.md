@@ -1,4 +1,4 @@
-<img src="./Favicon Ds.png" align="right" style="width: 240px" />
+<img src="./Favicon Ds.png" align="right" width="280" />
 
 ## Opa, eu sou o David! :wave:
 
