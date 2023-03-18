@@ -1,4 +1,4 @@
-<img src="./logo.png" align="right" alt="Logo de David Silva" width="280" />
+![Banner do David Silva](./banner.png)
 
 ## Opa, eu sou o David! :wave:
 
