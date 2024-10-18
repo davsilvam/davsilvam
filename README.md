@@ -2,11 +2,11 @@
 
 ## Opa, eu sou o David! :wave:
 
-Olá, meu nome é David Silva, tenho 19 anos, sou um Desenvolvedor Web e estou me graduando em Sistemas e Mídias Digitais da Universidade Federal do Ceará (UFC). 
+Sou David Silva, estudante de Sistemas e Mídias Digitais na Universidade Federal do Ceará (UFC) e desenvolvedor web com foco em full-stack. No front-end, trabalho com frameworks como **Next.js** e **Nuxt**, utilizando **TypeScript** e ferramentas como **Zod**, **react-hook-form** e **TailwindCSS** para criar sistemas robustos, fluidos e escaláveis.
 
-Atualmente atuo com ```TypeScript``` integrado no Framework Vue.js, também tendo conhecimento no ecossistema React. Uso ferramentas como Next.js e Nuxt, além de estar estudando Back-end e Arquitetura de Software com Node.js.
+No back-end, estou expandindo minha expertise com **Node.js**, especialmente com o framework **Fastify**, desenvolvendo APIs eficientes e integradas ao front-end. Minha formação multidisciplinar em UI, UX e IHC me ajuda a criar soluções que melhoram a experiência do usuário.
 
-<h6>:dizzy: Fale comigo aqui:</h6>
+<h6>:dizzy: Vamos nos conectar:</h6>
 
 <a href="mailto:contatodavidmaia@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-0D0D0E?style=for-the-badge&logo=gmail&logoColor=FFF"/>
@@ -14,8 +14,4 @@ Atualmente atuo com ```TypeScript``` integrado no Framework Vue.js, também tend
 
 <a href="https://www.linkedin.com/in/davsilvam/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0D0D0E?style=for-the-badge&logo=linkedin&logoColor=FFF"/>
-</a>
-
-<a href="https://www.instagram.com/davsilvam_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0D0D0E?style=for-the-badge&logo=instagram&logoColor=FFF"/>
 </a>
