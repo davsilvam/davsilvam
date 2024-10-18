@@ -1,6 +1,6 @@
 ![Banner do David Silva](./banner.png)
 
-## Opa, eu sou o David! :wave:
+## David da S. Maia, sir! :saluting_face:
 
 Sou David Silva, estudante de Sistemas e Mídias Digitais na Universidade Federal do Ceará (UFC) e desenvolvedor web com foco em full-stack. No front-end, trabalho com frameworks como **Next.js** e **Nuxt**, utilizando **TypeScript** e ferramentas como **Zod**, **react-hook-form** e **TailwindCSS** para criar sistemas robustos, fluidos e escaláveis.
 
